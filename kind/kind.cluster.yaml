@@ -7,4 +7,4 @@ containerdConfigPatches:
 name: test-cluster
 nodes:
   - role: control-plane
-    image: kindest/node:v1.19.16@sha256:476cb3269232888437b61deca013832fee41f9f074f9bed79f57e4280f7c48b7
+    image: kindest/node:v1.24.0@sha256:0866296e693efe1fed79d5e6c7af8df71fc73ae45e3679af05342239cdc5bc8e
